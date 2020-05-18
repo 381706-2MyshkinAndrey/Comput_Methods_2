@@ -1,0 +1,9 @@
+C:\work\Comput_Method_2\bin\Debug\Comput_Method_2.exe.config
+C:\work\Comput_Method_2\obj\Debug\Comput_Method_2.csprojResolveAssemblyReference.cache
+C:\work\Comput_Method_2\obj\Debug\Comput_Method_2.csproj.GenerateResource.Cache
+C:\work\Comput_Method_2\bin\Debug\Comput_Method_2.exe
+C:\work\Comput_Method_2\bin\Debug\Comput_Method_2.pdb
+C:\work\Comput_Method_2\obj\Debug\Comput_Method_2.Properties.Resources.resources
+C:\work\Comput_Method_2\obj\Debug\Comput_Method_2.exe
+C:\work\Comput_Method_2\obj\Debug\Comput_Method_2.pdb
+C:\work\Comput_Method_2\obj\Debug\Comput_Method_2.Form1.resources
